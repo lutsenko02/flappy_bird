@@ -1,0 +1,9 @@
+﻿canvas{
+	display: block;
+	margin: 200px auto;
+	border: 10px solid #FFFAFA;
+}
+body{
+	background-image: url("фонс.jpg");
+	background-image: cover;
+}
